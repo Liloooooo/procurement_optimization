@@ -1,2 +1,6 @@
 # pycache
 /src_optim/__pycache__/
+
+
+# .DS
+.DS_Store
